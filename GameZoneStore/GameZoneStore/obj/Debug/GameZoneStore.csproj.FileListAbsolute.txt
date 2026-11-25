@@ -1,0 +1,13 @@
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\bin\Debug\GameZoneStore.exe.config
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\bin\Debug\GameZoneStore.exe
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\bin\Debug\GameZoneStore.pdb
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.csproj.AssemblyReference.cache
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.FrmCarrito.resources
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.FrmMenuPrincipal.resources
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.FrmCatalogo.resources
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.Form1.resources
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.Properties.Resources.resources
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.csproj.GenerateResource.cache
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.csproj.CoreCompileInputs.cache
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.exe
+C:\Users\NEXUS\source\repos\GameZoneStore\GameZoneStore\obj\Debug\GameZoneStore.pdb
